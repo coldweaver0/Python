@@ -31,4 +31,4 @@ print(k,'**',l,'=',hasil6)  #Pemangkatan (Akar dapat dicari menggunakan pemangka
 m = 23
 n = 7
 hasil7 = m//n
-print(m,'//',n,'=',hasil7)  #Pembulatan dari hasil pembagian (ex : 20 // 6 = 3)
+print(m,'//',n,'=',hasil7)  #Pembulatan dari hasil pembagian (ex : 20 // 3 = 6)
