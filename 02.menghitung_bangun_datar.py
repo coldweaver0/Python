@@ -17,7 +17,7 @@ print('Nilai dari luas = ' + luasp)
 print('Nilai dari keliling = ' + kelilingp)
 
 #Lingkaran
-diameter  = 9
+diameter  = 7
 jari_jari = d/2
 pi = 3.14
 luasl = pi*diameter
