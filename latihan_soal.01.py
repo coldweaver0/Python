@@ -24,3 +24,4 @@ print('Index ke-8 = ' + SI[8])                                              #Jaw
 print(SI[14:31])                                                            #Jawaban dari no 5.
 
 print(SI[5] + ' ' + SI[12] + ' ' + SI[10] + ' ' + SI[18] + ' ' + SI[2])     #Jawaban dari no 6.
+
