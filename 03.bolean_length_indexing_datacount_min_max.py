@@ -1,6 +1,6 @@
 nama1 = 'Zaky'
 nama2 = 'Zaujan'
-nama3 = 'Jayaputra
+nama3 = 'Jayaputra'
 nama_lengkap = nama1 + ' ' + nama2 + ' ' + nama3
 panjang = len(nama_lengkap)                                       #Menghitung banyak karakter (spasi termasuk dalam karakter).
 print('Panjang dari ' + nama_lengkap + ' = ' + str(panjang))
