@@ -1,4 +1,4 @@
-# Tiap - tiap contoh di bawah harus dibuat dalam program terpisah agar dapat dijalankan.
+# TIAP CONTOH DI BAWAH HARUS DIBUAT DALAM PROGRAM TERPISAH AGAR DAPAT BERJALAN.
 
 nama = input('Siapa nama Anda ? ')                  #If & else dalam string.
 if nama == 'Zaky':
@@ -6,7 +6,7 @@ if nama == 'Zaky':
 else:
   print('Kamu bukan Zaky.')             #FALSE
 #
-nilai = input(int('Masukkan nilai Anda ='))         #If & else dalam integer.
+nilai = int(input('Masukkan nilai Anda = '))         #If & else dalam integer.
 if(nilai>7):
   print('Selamat Anda lulus.')          #TRUE
 else:
@@ -30,12 +30,12 @@ elif hari_ini == 'Minggu':
 else:
    print('ERROR 404 NOT FOUND')
 #
-bilangan = input(int('Masukkan bilangan (0-20) ='))        #Contoh dari penggunaan if,else dalam menentukan bilangan ganjil/genap.
+bilangan = int(input('Masukkan bilangan (0-20) = '))        #Contoh dari penggunaan if,else dalam menentukan bilangan ganjil/genap.
 if (bilangan%2) == 0 and (0<bilangan<=20):
    print('Ini adalah bilangan genap.')
 elif bilangan == 0:
    print('Nol bukanlah bilangan genap ataupun ganjil.')
-elif bilangan<20:
+elif bilangan>20:
    print('Tidak dapat mencari bilangan yang lebih dari 20.')
 else:
    print('Ini adalah bilangan ganjil.')
