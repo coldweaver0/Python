@@ -1,5 +1,3 @@
-# TIAP CONTOH DI BAWAH HARUS DIBUAT DALAM PROGRAM TERPISAH AGAR DAPAT BERJALAN.
-
 nama = input('Siapa nama Anda ? ')                  #If & else dalam string.
 if nama == 'Zaky':
   print('Kamu adalah Zaky.')            #TRUE
