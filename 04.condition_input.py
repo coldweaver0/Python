@@ -28,7 +28,7 @@ elif hari_ini == 'Sabtu':
 elif hari_ini == 'Minggu':
    print('Saya libur kuliah.')
 else:
-   print('ERROR 404 NOT FOUND')
+   print('Ë̸̲̘͚́R̡̦̺̤̭͔̈́ͧR̷͔̺͎̓ͅŌ͉̯͍̜̟͎ͧ͘ͅR̸͓͖͓̂̓̑ͩ ̙̮̟̲̣̙̾͋̊͡ͅ4̯̝̲͖͇̈́͒̄̄͞0̢̰̱̼̋̿4̙͎̞̝͍̰̯͈͂̓̉͞ ̘̣̍͊͜N̻͙̝͙͕̻ͩͦ̈͡Ȍ͔̘ͯ͊̆͟T̘͈̻͍͉̻̼̎ͦ͛̕ͅ ̢̜̦̱͎̊̅F̴̦̳͒̐̽̚Ȏ͈̦͈̗̫̜̲̀Ư͚͚̳ͦ̅̀̔N͕̦̭̹̙̞̫͕ͦ͑̓͢D̢̖̲ͤ.̢̼̩͉̩̲̥̜̞̆͐̏̅')
 #
 bilangan = int(input('Masukkan bilangan (0-20) = '))        #Contoh dari penggunaan if,else dalam menentukan bilangan ganjil/genap.
 if (bilangan%2) == 0 and (0<bilangan<=20):
