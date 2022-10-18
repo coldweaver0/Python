@@ -34,7 +34,7 @@ while(i<100):
 #
 for i in range(5):                        #Range(x) artinya bilangan-bilangan dari 0 sampai sebelum x.
     for j in range(6):
-        print('[',i,j,']',end=' ')
+        print('[',i,j,']',end=' ')        #Penggunaan end di sini berguna untuk mengganti spasi yang menjadi bawaan dengan spasi.
     print()                               #Digunakan untuk memberi spasi setiap range(6).
 
 #Di bawah ini adalah berbagai pengimplementasian dari pengulangan (loop) dalam membentuk bagun datar.
