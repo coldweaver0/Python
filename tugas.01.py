@@ -1,5 +1,5 @@
 # Zaky zaujan Jayaputra
-# M. Rafly Syharul Fathan
+# M. Rafly Syharul Fathan 
 
 def fungsi():
     print('Ini adalah fungsi')
