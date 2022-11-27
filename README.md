@@ -1,2 +1,2 @@
 # Python
-All of my python program's here.
+All of my python programs are here.
