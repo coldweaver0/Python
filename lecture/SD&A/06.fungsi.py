@@ -1,5 +1,5 @@
-def fungsi_saya():                                     #Fungsi adalah blok kode terorganisir yang dapat dipanggil
-    print('Latihan fungsi pertama')                    #berulang-ulang. Fungsi dapat digunakan untuk menyimpan data.
+def fungsi_saya():                                     #Fungsi adalah blok kode terorganisir yang dapat dipanggil berulang-ulang. Fungsi dapat digunakan untuk menyimpan data.
+    print('Latihan fungsi pertama')
     print('Ini latihan fungsi saya :D')
 def fungsi_anda():
     print('Latihan fungsi kedua')
@@ -29,9 +29,9 @@ LuasPersegiPanjang(7.4,3.008)
 
 def luas(panjang,lebar):
     luas2 = panjang*lebar
-    return luas2                                        #Return gunanya adalah menampung sementara hasil dari
-x = luas(10,2)                                          #operasi, baik dalam variabel ataupun dalam operasi
-z = x*100                                               #itu sendiri.
+    return luas2                                        #Return gunanya adalah menampung sementara hasil dari operasi, baik dalam variabel ataupun dalam operasi itu sendiri.
+x = luas(10,2)
+z = x*100
 print(z)
 
 def tambah(angka1,angka2):
@@ -48,7 +48,7 @@ def operasi_mtk(angka1,angka2):
     bagi =  angka1 / angka2
     return kurang,kali,tambah,bagi
 
-a,b,c,d = operasi_mtk(7,8.2)                            #Contoh pertama
+a,b,c,d = operasi_mtk(7,8.2)                             #Contoh pertama
 print(f'Hasil pengurangan = {a}')
 print(f'Hasil perkalian = {b}')
 print(f'Hasil penambahan = {c}')
