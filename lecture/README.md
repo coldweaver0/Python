@@ -1,1 +1,1 @@
-All programs created at lecture stored here.
+Here stored all programs at lecture.
