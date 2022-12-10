@@ -2,7 +2,7 @@ data = ['flashdisk',100,'harddisk']
 data_0 = data[0]
 data_terakhir = data[-1]                                        # Bisa juga 2.
 data_100 = data[2]                                              # Bisa juga 1.
-print('Data list pertama (undex 0) =',data_0)
+print('Data list pertama (index 0) =',data_0)
 print('Data list terakhir (index -1) =',data_terakhir)
 print('Data list kedua (index -2) =',data_100)
 #
