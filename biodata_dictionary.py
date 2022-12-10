@@ -33,8 +33,6 @@ while True:
     i = i+1
 
     ulang = input('Masukkan data lagi? (y/n) ')
-    if ulang == 'y':
-        continue
     if ulang == 'n':
         print('MENGHENTIKAN PROGRAM...')
         break
