@@ -56,4 +56,4 @@ print('1. Terbesar ke Terkecil (Ascending)')
 print('2. Terkecil ke Terbesar (Descending)')
 pilih = input('')
 if pilih == '2':
-  terkecil()
+  terkecil() 
