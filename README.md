@@ -1,2 +1,2 @@
 # Python
-All of my python programs are here.
+Python programmed-language stored here
