@@ -1,2 +1,2 @@
 # Python
-Code here was made by me. May take reference from others.
+These codes were made by me. May take reference from others.
